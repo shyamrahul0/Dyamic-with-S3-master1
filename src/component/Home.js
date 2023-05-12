@@ -2,7 +2,7 @@ import React, {Component, Fragment} from 'react';
 import Header from './Header';
 import RestaurantsDisplay from './Restaurants';
 
-const url = "http://13.126.163.90:8443/restaurant/";
+const url = "http://13.235.254.90:8443/restaurant/";
 
 class Home extends Component{
     constructor(){
